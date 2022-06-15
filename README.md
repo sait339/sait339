@@ -4,9 +4,9 @@
 
 Backend Developer | Licence student
 
- Hi, I'm Emre, a 2nd year student at the Department of Management Information Systems. I'm interested in programming and I'm improving myself in this direction. I have a good command of languages such as C#, Java, Python, JavaScript, SQl, and I'm improving myself in mobile programming. I'm learning Flutter and Kotlin. In the TUNEX team, which we established with 4 friends, we develop applications by helping and teamwork, and we do things that will improve ourselves.
+ Hi, I'm Sait, a 2nd year student at the Computer Programmer. I'm interested in programming and I'm improving myself in this direction. I have a good command of languages such as C#, Java, Python, C, SQL, MYSQL and I'm improving myself in mobile programming. I'm learning Flutter. In the TUNEX team, which we established with 4 friends, we develop applications by helping and teamwork, and we do things that will improve ourselves.
 
-<font color="red">Asla yanlış yapmamış insan, yeni hiç birşey denememiştir. `Albert Einstein
+<font color="red"> It cannot be reached without pushing the limits of the human mind. `Albert Einstein
 `  </font>
 ### Reach out to me(Sosyal Medya Hesaplarım)
 
@@ -22,10 +22,9 @@ Backend Developer | Licence student
 
 
 
-[youtube]:https://www.youtube.com/channel/UCqgwnhEQFUSjCvJOaN-L6Kg
-[twitter]:https://twitter.com/darm4duman
-[linkedin]:https://www.linkedin.com/in/yekaranfil/
-[instagram]:https://www.instagram.com/emreekrnfl/
+[twitter]:https://twitter.com/sait_kocabas
+[linkedin]:https://www.linkedin.com/in/muhammet-sait-kocaba%C5%9F-2b0a59233/
+[instagram]:https://www.instagram.com/muhammetsaitkocabas/?hl=tr
 
 <br/>
 <br/>
@@ -68,7 +67,7 @@ Backend Developer | Licence student
 
 <summary> :bulb: My Github Stats(Github İstatistiklerim) </summary>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=yekaranfil&theme=radical&show_icons=true" >
+<img src = "https://github-readme-stats.vercel.app/api?username=sait339&theme=radical&show_icons=true" >
 
 
 
@@ -76,4 +75,4 @@ Backend Developer | Licence student
 
 <summary> :bulb: Most Used Languages(En çok kullandığım diller) </summary>
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yekaranfil&layout=compact" >
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sait339&layout=compact" >
