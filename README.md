@@ -75,4 +75,4 @@ Backend Developer | Licence student
 
 <summary> :bulb: Most Used Languages(En çok kullandığım diller) </summary>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yekaranfil&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="sait339" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sait339&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="sait339" /></p>
