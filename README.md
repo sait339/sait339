@@ -10,12 +10,9 @@ Backend Developer
 `  </font>
 ### Reach out to me(Sosyal Medya Hesaplarım)
 
-[<img height="45" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" align=left />][youtube]
-
 [<img height="35" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" align=left />][twitter]
 
 [<img height="35" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" align=left />][linkedin]
-
 
 [<img height="35" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" align=left />][linkedin]
 
