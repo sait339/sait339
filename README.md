@@ -20,7 +20,7 @@ Backend Developer
 
 
 [twitter]:https://twitter.com/sait_kocabas
-[linkedin]:https://www.linkedin.com/in/muhammet-sait-kocaba%C5%9F-2b0a59233/
+[linkedin]:https://www.linkedin.com/in/muhammet-sait-kocaba%C5%9F-2b0a59233
 [instagram]:https://www.instagram.com/muhammetsaitkocabas/?hl=tr
 
 <br/>
