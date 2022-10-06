@@ -29,14 +29,14 @@ Backend Developer
 
 ### Tech I use (Kullandığım teknolojiler)
 
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="30" height="25">
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="30" height="25">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="30" height="25">
-<img align="left" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" width="30" height="25">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" width="30" height="25">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30" height="25">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30" height="25">
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="30" height="25">
+<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="45" height="45">
+<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="45" height="45">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="45" height="45">
+<img align="left" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" width="45" height="45">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" width="45" height="45">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="45" height="45">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="45" height="45">
+<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="45" height="45">
 
 
 
@@ -44,12 +44,12 @@ Backend Developer
 
 
 ### Coming soon (Çok yakında)
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="35" height="25">
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="35" height="25">
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="35" height="25">
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="35" height="25">
-<img align="left" src="https://camo.githubusercontent.com/76ae44a94388e048be2d8f5730d221c844f291162e6c5cdd632b1623a1b859f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6f746c696e6c616e672f6b6f746c696e6c616e672d69636f6e2e737667" width="35" height="25">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="35" height="25">
+<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="45" height="45">
+<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="45" height="45">
+<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="45" height="45">
+<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="45" height="45">
+<img align="left" src="https://camo.githubusercontent.com/76ae44a94388e048be2d8f5730d221c844f291162e6c5cdd632b1623a1b859f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6f746c696e6c616e672f6b6f746c696e6c616e672d69636f6e2e737667" width="45" height="45">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="45" height="45">
 <br/>
 <br/>
 
